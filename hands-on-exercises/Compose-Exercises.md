@@ -13,6 +13,7 @@ mkdir my-first-compose
 cd my-first-compose
 ```
 
+
 2. **Create a simple HTML file:**
 ```bash
 cat > index.html << 'EOF'
